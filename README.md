@@ -4,19 +4,6 @@
   <strong>AI-powered interview practice, speech analytics, and personalized performance feedback for placement preparation.</strong>
 </p>
 
-<p align="center">
-  <a href="https://ky6esp-ecgsowz0k-arcadawebapps9.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Application-111827?style=for-the-badge" alt="Live Demo">
-  </a>
-</p>
-
-## 🌐 Live Demo
-
-### 👉 [Open AI Interview Performance Analyzer](https://ky6esp-ecgsowz0k-arcadawebapps9.vercel.app)
-
-Use the live deployment to explore the interview workflow, practice questions, receive response feedback, and review performance analytics.
-
----
 
 ## 📌 Project Overview
 
@@ -368,19 +355,11 @@ For a college presentation:
 
 **Use Case:** Student Placement & Interview Preparation
 
-**Deployment:** Vercel
+
 
 **Architecture:** React SPA + Serverless API + Supabase
 
----
 
-## 🚀 Live Application
-
-**Try the deployed application here:**
-
-### 👉 https://ky6esp-ecgsowz0k-arcadawebapps9.vercel.app
-
----
 
 ## ⭐ Project Highlights
 
